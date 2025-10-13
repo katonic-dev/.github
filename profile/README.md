@@ -8,7 +8,7 @@ Our platform deploys wherever your requirements demand. On-premise data centers,
 
 Founded in **Sydney in 2020** by enterprise AI veteran **Prem Naraindas**, we built a profitable, customer-focused business before raising growth capital. Operating from our global hub in Dubai with distributed engineering teams across India, we've delivered proven results:
 
-- ✅ National-scale deployments like the Filipino AI Cloud with PLDT
+- ✅ Katonic AI's Sovereign AI platform powers **Pilipinas AI**, the Philippines' first sovereign AI solutions stack, launched in partnership with ePLDT marking the start of true AI independence for Filipino enterprises
 - ✅ Critical infrastructure projects including Saudi Arabia's MODON AI Center of Excellence
 - ✅ Recognised by Frost & Sullivan as 2023 Entrepreneurial Company of the Year
 - ✅ Included in Everest Group's MLOps PEAK Matrix Assessment 2022
